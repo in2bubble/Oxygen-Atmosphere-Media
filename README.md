@@ -11,5 +11,5 @@ This repository hosts official media assets for the **Oxygen Atmosphere** shader
 ---
 
 ### ⚠️ License & Copyright
-All media files in this repository are **Copyright (c) 2026 mta. All Rights Reserved.**  
+All media files in this repository are **Copyright (c) 2026 in2bubble. All Rights Reserved.**  
 No assets may be copied, redistributed, or used without explicit permission.
